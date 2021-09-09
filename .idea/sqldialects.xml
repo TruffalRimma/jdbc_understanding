@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/nonstructured/JavaDemoJDBC.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/select_COLUMN_FUNCTION.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/select_FEW_TABLES_PT1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/select_FEW_TABLES_PT2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/select_PODZAPROSY.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/select_lesson1_WHERE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_manual/select_lesson2_ORDER_BY.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_stuff/schema_MySQL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sql_stuff/schema_inserts_MySQL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/structured/Operations.java" dialect="MySQL" />
+  </component>
+</project>
